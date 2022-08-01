@@ -10,6 +10,6 @@ output:
   
 ---
 
-# Prefacio
+# Prefacio {-}
 
 Descripción del prefacio
