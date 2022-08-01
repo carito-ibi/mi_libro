@@ -10,3 +10,7 @@ Contenido
 ### Subtítulo nivel 2
 
 Contenido
+
+```{r, out, width='50%', fig.align='center'}
+knitr::include_graphics("img/elmo_hell.png")
+```
